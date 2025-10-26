@@ -6,7 +6,7 @@
 ### 💻 Tech Stack
 **Backend:** Java, Spring Boot, Hibernate, REST APIs  
 **Frontend:** JavaScript, HTML, CSS, Bootstrap, ReactJs             
-**Database:** MySQL, PostgreSQL, SQL
+**Database:** MySQL, PostgreSQL, SQL                   
 **API & Testing Tools:** Swagger, Postman  
 **Others:** Git, GitHub, Maven  
 
