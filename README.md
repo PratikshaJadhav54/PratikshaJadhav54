@@ -37,7 +37,7 @@
 </p>
 
 <!-- Cloud -->
-<h3 align="left">Cloud</h3>
+<!-- <h3 align="left">Cloud</h3>
 <p align="center">
   <table>
     <tr>
@@ -49,7 +49,7 @@
       </td>
     </tr>
   </table>
-</p>
+</p> -->
 
 <!-- Tools -->
 <h3 align="left">Tools</h3>
@@ -65,12 +65,12 @@
       <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="60" height="60"/><br>Maven
       </td>
-      <td align="center" width="100">
+      <!-- <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="60" height="60"/><br>Postman
-      </td>
-      <td align="center" width="100">
+      </td> -->
+      <!-- <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="60" height="60"/><br>Swagger
-      </td>
+      </td> -->
     </tr>
   </table>
 </p>
@@ -81,9 +81,9 @@
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<!--![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)-->
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
@@ -103,15 +103,12 @@
 - 🌸 Learning Java and building projects with Spring Boot  
 - 🤝 Open to collaborate on Full Stack projects  
 - 💡 Curious to explore new technologies  
-
+  &nbsp;&nbsp;
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratiksha-jadhav-10247a273/)
+  [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](your-hackerrank-link)
 ---
+
 [![Pratiksha's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PratikshaJadhav54&theme=tokyo-night&hide_border=true&area=true&height=250)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-### 🌐 Profiles
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratiksha-jadhav-10247a273/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](your-hackerrank-link)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PratikshaJadhav54)
 
 
 <!--
