@@ -3,13 +3,77 @@
 
 ---
 
-### 💻 Tech Stack
-**Backend:** Java, Spring Boot, Hibernate, REST APIs  
-**Frontend:** JavaScript, HTML, CSS, Bootstrap, ReactJs             
-**Database:** MySQL, PostgreSQL, SQL                   
-**API & Testing Tools:** Swagger, Postman  
-**Others:** Git, GitHub, Maven  
+<!-- Backend -->
+<h3 align="left">Backend</h3>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/><br>Java
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" height="60"/><br>Spring Boot
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" width="60" height="60"/><br>Hibernate
+      </td>
+    </tr>
+  </table>
+</p>
 
+<!-- Database -->
+<h3 align="left">Database</h3>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/><br>MySQL
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60"/><br>PostgreSQL
+      </td>
+    </tr>
+  </table>
+</p>
+
+<!-- Cloud -->
+<h3 align="left">Cloud</h3>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60" height="60"/><br>Azure
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60"/><br>Docker
+      </td>
+    </tr>
+  </table>
+</p>
+
+<!-- Tools -->
+<h3 align="left">Tools</h3>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/><br>Git
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60"/><br>GitHub
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="60" height="60"/><br>Maven
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="60" height="60"/><br>Postman
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="60" height="60"/><br>Swagger
+      </td>
+    </tr>
+  </table>
+</p>
 ---
 
 ### 🛠️ Skills & Technologies
@@ -41,6 +105,8 @@
 - 💡 Curious to explore new technologies  
 
 ---
+[![Pratiksha's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PratikshaJadhav54&theme=tokyo-night&hide_border=true&area=true&height=250)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ### 🌐 Profiles
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratiksha-jadhav-10247a273/)
