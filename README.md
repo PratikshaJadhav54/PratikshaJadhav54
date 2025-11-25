@@ -112,7 +112,7 @@
 - 💡 Curious to explore new technologies  
   &nbsp;&nbsp;
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratiksha-jadhav-10247a273/)
-  [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](your-hackerrank-link)
+  [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/pratikshajadha22)
 ---
 
 [![Pratiksha's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PratikshaJadhav54&theme=tokyo-night&hide_border=true&area=true&height=250)](https://github.com/ashutosh00710/github-readme-activity-graph)
