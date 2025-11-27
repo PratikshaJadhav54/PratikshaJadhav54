@@ -2,6 +2,29 @@
 🚀 Java Developer | 🌱 Building Applications & APIs with Spring Boot  
 
 ---
+<!-- Frontend  -->
+<h3 align="left">Frontend</h3>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/><br>HTML
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/><br>CSS
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60"/><br>Bootstrap
+      </td>
+       <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/><br>Javascript
+      </td>
+       <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="60" height="60"/><br>React
+      </td>
+    </tr>
+  </table>
+</p>
 
 <!-- Backend -->
 <h3 align="left">Backend</h3>
