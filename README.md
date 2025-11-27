@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Pratiksha Jadhav 
-🚀 Java Developer | 🌱 Building Applications & APIs with Spring Boot  
+🚀 Java Developer | Web developer | 🌱 Building Applications & APIs with Spring Boot  
 
 ---
 <!-- Frontend  -->
