@@ -117,7 +117,7 @@
 
 
 ---
-<!--
+
 ### 📊 GitHub Stats
 ![Pratiksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PratikshaJadhav54&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PratikshaJadhav54&layout=compact&theme=tokyonight)
@@ -126,7 +126,7 @@
 
 ### 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=PratikshaJadhav54&theme=radical)
--->
+
 ---
 
 ### 🌱 About Me
